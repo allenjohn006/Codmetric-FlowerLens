@@ -3,8 +3,6 @@
   <p>Interactive ML species classifier + explainability tool</p>
 </div>
 
-![ML Overview](images/ML.png)
-
 ## Overview
 
 FlowerLens is an interactive Machine Learning tool designed for classifying Iris plant species from physical measurements. It provides a live ML classifier with interactive sliders for measurements and a visual explanation of which features drove the prediction. It helps researchers understand **why** a model made a classification, not just what it predicted.
@@ -18,6 +16,9 @@ FlowerLens is an interactive Machine Learning tool designed for classifying Iris
 *   **Exploratory Data Analysis (EDA):** Built-in dashboards showing species distribution, feature ranges, and scatter plots.
 *   **Live Decision Boundary:** A scatter plot map showing where the current user input sits on the feature distribution.
 *   **Model Comparison:** Compare predictions across different ML models (Random Forest, SVM, KNN, Decision Tree) and view their accuracy, precision, and recall.
+
+![ML Overview](images/ML.png)
+
 
 ## Tech Stack
 
