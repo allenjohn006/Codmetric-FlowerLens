@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌸 FlowerLens</h1>
+  <h1>🌸 FlowerLens [Task-3(Iris Data Exploration)]</h1>
   <p>Interactive ML species classifier + explainability tool</p>
 </div>
 
