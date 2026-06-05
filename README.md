@@ -17,7 +17,9 @@ FlowerLens is an interactive Machine Learning tool designed for classifying Iris
 *   **Live Decision Boundary:** A scatter plot map showing where the current user input sits on the feature distribution.
 *   **Model Comparison:** Compare predictions across different ML models (Random Forest, SVM, KNN, Decision Tree) and view their accuracy, precision, and recall.
 
-![ML Overview](images/ML.png)
+![ML Overview](images/ML.png) 
+
+![EDA Panel](images/EDA.png)
 
 
 ## Tech Stack
